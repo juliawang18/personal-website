@@ -25,7 +25,7 @@ changeActive(event){
         <div class="dot-navbar">
             <nav>
                 <ul>
-                    <li><a href="#about" class="dot active"><span>About</span></a></li>
+                    <li><a href="#about" class="dot"><span>About</span></a></li>
                     <li><a href="#interests" class="dot"><span>Interests</span></a></li>
                     <li><a href="#experiences" class="dot"><span>Experiences</span></a></li>
                     <li><a href="#projects" class="dot"><span>Projects</span></a></li>

@@ -1,6 +1,7 @@
 .projects-container {
   background-color: #6B9080;
-  padding-bottom:100px;
+  padding-bottom:10%;
+  height: 100%;
 }
 
 .project-title {
