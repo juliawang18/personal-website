@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/swim.d036c3ef.JPG"
   },
   {
-    "revision": "fb0b216f8a8ea8e82dc2",
-    "url": "/static/css/main.f7d7b96c.chunk.css"
+    "revision": "8f087e17a25322a44458",
+    "url": "/static/css/main.92a6f7e9.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/puzzles.97b396a5.JPG"
   },
   {
-    "revision": "fb0b216f8a8ea8e82dc2",
-    "url": "/static/js/main.fb0b216f.chunk.js"
+    "revision": "8f087e17a25322a44458",
+    "url": "/static/js/main.8f087e17.chunk.js"
   },
   {
     "revision": "1843386f24fbb86f2d1bdd5d95b61c25",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/instagram.7d7b3911.JPG"
   },
   {
-    "revision": "e40260a14d48e230a81ffd22391cf2b6",
+    "revision": "d68865dfd9aef14090866870dd95a593",
     "url": "/index.html"
   }
 ];
