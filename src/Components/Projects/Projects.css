@@ -1,0 +1,73 @@
+.projects-container {
+  background-color: #6B9080;
+  padding-bottom:100px;
+}
+
+.project-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 60px;
+  padding: 70px;
+  padding-left: 140px;
+  margin-bottom: -210px;
+}
+
+.project-header {
+  font-family: 'Roboto slab', serif;
+  color: white;
+  font-size: 20px;
+  padding: 70px;
+  padding-left: 140px;
+  width: 30%
+}
+
+.project-component {
+  text-align: center;
+  position: relative;
+  max-width: 550px;
+  max-height: 250px;
+  margin-left: 500px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+
+.project-component:hover .overlay {
+  opacity: 0.7;
+}
+
+.text {
+  color: #7F7F7F;
+  font-size: 24px;
+  font-family: 'Roboto slab', serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.image {
+  display: block;
+}
+
+.projects-line {
+  width: 600px;
+  height: 160px;
+  border-bottom: 5px solid white;
+  position: absolute;
+  margin-left: 30%;
+}

@@ -1,0 +1,57 @@
+.Interests-container {
+  margin-top: 100px;
+}
+
+.Interests-header {
+  text-align: right;
+  font-size: 36px;
+  margin-right: 50px;
+  margin-top: 200px;
+  margin-bottom: -100px;
+  width: 400px;
+  padding-left:850px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.Interests-main {
+  position: relative;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  line-height: 1;
+  margin-bottom: -50px;
+}
+
+.Interests-pic {
+  z-index: -10;
+}
+
+#rectangle-pics {
+      height: 580px;
+      background: #EAF4F4;
+      z-index: -11;
+      position: relative;
+      margin-top: -580px;
+      width: 42%;
+      padding: 5px;
+      margin-left: -20px;
+      margin-bottom: 150px;
+    }
+
+#rectangle-first-line {
+  width: 90%;
+  height: 30px;
+  background: #EAF4F4;
+  z-index: -11;
+  margin-top: -60px;
+  margin-left: 30px;
+}
+
+#rectangle-second-line {
+  width: 85%;
+  height: 30px;
+  background: #EAF4F4;
+  z-index: -11;
+  margin-top: -80px;
+  margin-left: 50px;
+}
