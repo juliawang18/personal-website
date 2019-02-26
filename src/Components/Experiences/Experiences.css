@@ -1,7 +1,7 @@
 .Experiences-container {
   background-color: #A6CFCF;
   margin-bottom: -60px;
-  background-size: 100%;
+  min-height: 100vh;
 }
 
 .experiences-items {
