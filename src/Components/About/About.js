@@ -18,7 +18,7 @@ class About extends Component {
             <p className="About-last">WANG</p>
           </div>
           <div className="About-description">
-              <p>I’m currently a first-year at University of California, Berkeley studying Electrical Engineering and Computer Science. Here are some things about me and what I’ve done.</p>
+              <p>I’m currently a first-year at University of California, Berkeley studying Electrical Engineering and Computer Sciences. Here are some things about me and what I’ve done.</p>
           </div>
         </div>
       </div>
