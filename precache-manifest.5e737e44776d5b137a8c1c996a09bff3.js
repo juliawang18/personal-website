@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d036c3ef8f15f0aeac495fdc7c6e10cd",
-    "url": "/static/media/swim.d036c3ef.JPG"
+    "revision": "1fe7e65f1cc5e9d4c6b2c935722c65a5",
+    "url": "/static/media/swim.1fe7e65f.JPG"
   },
   {
-    "revision": "8f087e17a25322a44458",
-    "url": "/static/css/main.92a6f7e9.chunk.css"
+    "revision": "67f93e26081cda2a3ae7",
+    "url": "/static/css/main.4e1c50bd.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/static/js/2.2aab311a.chunk.js"
   },
   {
-    "revision": "275efd52c382eb95f94b0328f1c87788",
-    "url": "/static/media/art.275efd52.JPG"
+    "revision": "c83055d309443dc7214b830dc0a29d8e",
+    "url": "/static/media/art.c83055d3.JPG"
   },
   {
-    "revision": "97b396a55cbc22be86d65e65095530cf",
-    "url": "/static/media/puzzles.97b396a5.JPG"
+    "revision": "4ed26c889b3a42259c1b5b73aae5a6c6",
+    "url": "/static/media/music.4ed26c88.JPG"
   },
   {
-    "revision": "8f087e17a25322a44458",
-    "url": "/static/js/main.8f087e17.chunk.js"
+    "revision": "67f93e26081cda2a3ae7",
+    "url": "/static/js/main.67f93e26.chunk.js"
   },
   {
     "revision": "1843386f24fbb86f2d1bdd5d95b61c25",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/instagram.7d7b3911.JPG"
   },
   {
-    "revision": "d68865dfd9aef14090866870dd95a593",
+    "revision": "a400da66f942f5c26b8b1719a6698200",
     "url": "/index.html"
   }
 ];
